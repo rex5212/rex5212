@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Renato O.](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight)](https://github.com/iuricode/)
+[![iuricode.](https://github-readme-stats.vercel.app/api?username=rex5212&theme=tokyonight)](https://github.com/iuricode/)
 
-[![Renato O.](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![iuricode.](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
