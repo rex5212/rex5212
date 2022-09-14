@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Renato O.](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight)](https://github.com/iuricode/)
+
+[![Renato O.](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
