@@ -44,7 +44,7 @@
 
 
 
-# Alguns modos de entra em contato comigo:
+# Alguns modos de entrar em contato comigo:
 
 
 [![Outlook](https://img.shields.io/badge/renatosantosv12@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=renatosantos@hotmail.com)](mailto:renatosantosv12@hotmail.com)
