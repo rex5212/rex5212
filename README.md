@@ -12,11 +12,11 @@
  ...ainda
 </p>
 
-[![rex5212](https://github-readme-stats.vercel.app/api?username=rex5212&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)](https://github.com/rex5212/)
+[![rex5212](https://github-readme-stats.vercel.app/api?username=rex5212&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true%22/%3E)](https://github.com/rex5212/)
 
-[![rex5212](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&layout=compact&langs_count=7&theme=nightowl)](https://github.com/rex5212/)
+[![rex5212](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&layout=compact&langs_count=7&theme=nightowl%22/%3E)](https://github.com/rex5212/)
 
-  
+
 # Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/rex5212)
