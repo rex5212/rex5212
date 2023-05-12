@@ -12,9 +12,9 @@
  ...ainda
 </p>
 
-[![rex5212](https://github-readme-stats.vercel.app/api?username=rex5212&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true%22/%3E)](https://github.com/rex5212/)
+[![rex5212](https://github-readme-stats.vercel.app/api?username=rex5212&theme=tokyonight)](https://github.com/rex5212/)
 
-[![rex5212](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&layout=compact&langs_count=7&theme=nightowl%22/%3E)](https://github.com/rex5212/)
+[![rex5212](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&hide=html&layout=compact&theme=tokyonight)](https://github.com/rex5212/)
 
 
 # Skills
