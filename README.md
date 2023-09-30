@@ -4,13 +4,20 @@
 # Oi
 
 <p align="left"> 
-Me chamo Renato Ostemberg dos Santos, Tecnólogo pelo IESB em Analise e Desenvolvimento de Software, já mexi com vários tipos de linguagem, sendo algumas delas JavaScript, TypeScript, Python, além de que já estudei sobre Metodologias Ágeis (Scrum e XP), Fundamentos Lógicos, Arquitetura Computacional, SO (Sistema Operacional) e outras (para saber melhor sobre as linguagens que utilizei ou sobre oque já estudei vá para meu Linkedin)
+Me chamo Renato Ostemberg dos Santos, Tecnólogo pelo IESB em Analise e Desenvolvimento de Software, já mexi com vários tipos de linguagem, sendo algumas delas JavaScript, TypeScript, Python, além de que já estudei sobre Metodologias Ágeis (Scrum e XP), Fundamentos Lógicos, Arquitetura Computacional, SO (Sistema Operacional) e outras 
+<br><br>
+(para saber melhor sobre as linguagens que utilizei ou sobre oque já estudei vá para meu Linkedin)
 </p>
+
+<br>
 
 [![rex5212](https://github-readme-stats.vercel.app/api?username=rex5212&theme=tokyonight)](https://github.com/rex5212/)
 
+<br>
+
 [![rex5212](https://github-readme-stats.vercel.app/api/top-langs/?username=rex5212&hide=html&layout=compact&theme=tokyonight)](https://github.com/rex5212/)
 
+<br>
 
 # Skills
 
@@ -31,13 +38,13 @@ Me chamo Renato Ostemberg dos Santos, Tecnólogo pelo IESB em Analise e Desenvol
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-
+<br>
 
 # Ferramentas de Desenvolvimento
 
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
+<br>
 
 # Alguns modos de entrar em contato comigo:
 
