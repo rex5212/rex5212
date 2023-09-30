@@ -1,9 +1,7 @@
-## Bem Vindo(a)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Oi
-
 
 <p align="left"> 
 Me chamo Renato Ostemberg dos Santos, Tecnólogo pelo IESB em Analise e Desenvolvimento de Software, já mexi com vários tipos de linguagem, sendo algumas delas JavaScript, TypeScript, Python, além de que já estudei sobre Metodologias Ágeis (Scrum e XP), Fundamentos Lógicos, Arquitetura Computacional, SO (Sistema Operacional) e outras (para saber melhor sobre as linguagens que utilizei ou sobre oque já estudei vá para meu Linkedin)
